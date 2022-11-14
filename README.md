@@ -22,11 +22,12 @@ Well, I have been coding since mid 2019, though I did have computer science cour
 
 To list everything which I have studied/used till date, here's the list:
 - :snake: Python (no doubt that this was coming on the list)
+- :green_square: Node.js (worked on it mostly while working on the MASK repository)
 - :copyright: C/C++ (first year in college; no other emoji except copyright serves the purpose)
 
 Starting from here, the list has stuff which I have bare-minimum knowledge on and am learning them right now
 - :video_game: C# (weird choice of an emoji, unless well, Unity, which was what I used it for)
-- :computer: Web Development tools (mainly HTML, CSS and JS, the last of which I know a _tad bit_ more than the rest.)
+- :computer: Web Development tools (mainly HTML, CSS and JS, and using it in templates.)
 
 ##
 > ### _Whatchu got for us, Goose?_

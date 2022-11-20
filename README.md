@@ -1,40 +1,22 @@
-# _Honk: An intro by yours truly_
+# Honk!
 
 ### Introduction
 
-:swan:
-> A goose who's been through *so much* war that peace is now not an option at all; maybe it never was... 
-
-Feels a bit far-fetched, don't you think? Well... That's more or less what I make myself out to be. In reality, I'm just a guy with glasses doing some simple stuff in my computer. 
-
-Allow me to introduce myself, I am Vidunram, but I go by many nicknames/aliases/whatever you want to call it:
-- Shortened forms of my name, like Vidun, Vid, etc.
-- **Goos** (I lost that 'e' in the war)
-- Of course, the amalgamations which you get when you try to/don't try to but eventually make a mess out of my name... I ain't giving examples for this one. Your imagination itself is good enough for it.
+Hello. I am Vidunram, a second-year undergraduate student of IIT Kharagpur. I mostly work on the back-end of small projects, mainly in Python and Javascript. I am currently a member of the Web Team of the [Manga and Anime Society, Kharagpur](https://github.com/mask-tech) and I am open for small projects to code.
 
 ## 
-### What do I know?
+### Languages which I have worked with
+- **Python:** Started through the CBSE Computer Science course in 11th and 12th grade, this language is the one which I have worked the most on, ranging from small things like a command-line 'Tower of Hanoi' to [small pygames](https://pastebin.com/E6nquEuJ) and [a Django server](https://github.com/Goose-of-War/django-rstrnt).
+- **Javascript:** Despite having worked on Javascript only since August 2022, this one is probably the one where I have worked the most on, especially on the [MASK Website](https://). Mainly working on Node.js and HTML DOM, it has been a fun ride for me so far, working on JS.
+- **C(++):** Mainly learned C for the first-year programming course which every one takes. C personally has been helpful since it showed me how beautiful the other languages are, with all the tools they already have (and also because it showed me how much I might have to grind)
+- **C#:** There was a brief phase when I was into game-development and I worked on Unity, which more or less used this for scripts. Here's a [small game](https://github.com/Goose-Of-War/Versus-Fighter-0) which I made eons ago (it's a remake of a pygame which I made BTW). It ain't much, but it's honest work. (This phase can be brought back provided I got a good team) 
+<br/>
 
-Well, I have been coding since mid 2019, though I did have computer science courses before that as well. My most proficient language as of now is...
-
-*\*drumroll\**
-> :snake: Python (specifically Python 3.X)
-
-To list everything which I have studied/used till date, here's the list:
-- :snake: Python (no doubt that this was coming on the list)
-- :green_square: Node.js (worked on it mostly while working on the MASK repository)
-- :copyright: C/C++ (first year in college; no other emoji except copyright serves the purpose)
-
-Starting from here, the list has stuff which I have bare-minimum knowledge on and am learning them right now
-- :video_game: C# (weird choice of an emoji, unless well, Unity, which was what I used it for)
-- :computer: Web Development tools (mainly HTML, CSS and JS, and using it in templates.)
+- **HTML/CSS:** While these technically aren't languages like the ones above, I think they deserve the mention, since I have worked on them (and since I am on a web team and worked on them, albeit I worked on templates more than sites themselves)
 
 ##
-> ### _Whatchu got for us, Goose?_
+### What you can find in my repositories 
+For the most part, my repositories contain some simple (yet most probably incomplete) code (which I hope to complete before 2023) in Python, Django, HTML, CSS, JS, Node.js and that one Unity game. You might probably find some subject notes in the set of repositories as well (What? I'm a nice guy who helps my classmates when I can ;-;) but yeah, that's more or less it. 
 
-I am not sure about after July 2022, but until the end of July, I'll be posting some small stuff which I'll be doing in Python and some web-dev stuff which I might start working on. These will most probably be really simple stuff and some remastered forms of my old projects, which you can find over here, in a [PasteBin account](https://pastebin.com/u/war_goose).
-
-##
-Until later
-
-Honk
+## 
+_As usual, this repository will undergo some changes (be it insignificant or not.) Until then, Honk_ 

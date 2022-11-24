@@ -18,5 +18,7 @@ Hello. I am Vidunram, a second-year undergraduate student of IIT Kharagpur. I mo
 ### What you can find in my repositories 
 For the most part, my repositories contain some simple (yet most probably incomplete) code (which I hope to complete before 2023) in Python, Django, HTML, CSS, JS, Node.js and that one Unity game. You might probably find some subject notes in the set of repositories as well (What? I'm a nice guy who helps my classmates when I can ;-;) but yeah, that's more or less it. 
 
+_(PS: Half of my repositories contain some incomplete stuff. So you can fork them, make them better and send a PR. Might help you get some brownie points in terms of learning how to use GitHub and stuff. It's most definitely not because I'm lazy to fix them myself (: )_
+
 ## 
 _As usual, this repository will undergo some changes (be it insignificant or not.) Until then, Honk_ 

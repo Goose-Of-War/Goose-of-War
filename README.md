@@ -16,10 +16,6 @@ Hello. I am Vidunram, a second-year undergraduate student of IIT Kharagpur. I mo
 
 - **HTML/CSS:** While these technically aren't languages like the ones above, I think they deserve the mention, since I have worked on them (and since I am on a web team and worked on them, albeit I worked on templates more than sites themselves)
 
-### _Puny flex_
-![Goose's GitHub statistics](https://github-readme-stats.vercel.app/api?username=Goose-Of-War&show_icons=true&count_private=true&show_icons=true&theme=monokai)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshKhandeparkar&layout=compact&theme=monokai&count_private=true)
 
 ##
 ### What you can find in my repositories 

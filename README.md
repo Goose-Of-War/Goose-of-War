@@ -6,7 +6,7 @@
 
 ## Introduction: 
 
-I am Vidunram, a third-year undergraduate student at IIT Kharagpur. I mostly work on the backend of small projects, mainly in Python and Javascript. I am currently the Sub-Head of the Web Development Team of the [Manga & Anime Society Kharagpur](https://github.com/kgpmask) or simply MASK.
+I am Vidunram, a third-year undergraduate student at IIT Kharagpur. I mostly work on the backend of small projects, mainly in Python and Javascript. I am currently the Head of the Web Development Team of the [Manga and Anime Society Kharagpur](https://github.com/kgpmask) or simply MASK.
 
 ---
 
@@ -68,8 +68,8 @@ I am familiar with both SQL and NoSQL databases. Here are the few I have worked 
 - SQLite
 - MySQL
 
-## Experience  
+---
 
 Except for the incomplete repositories in my profile, I have worked mostly on the MASK Website. I have also worked on some Django and Flask websites. I am open to similar projects. If you are interested in something like this, do contact me. I'm available on Discord as `.goose_of_war` and over here on GitHub.  
 
-> _Also, I wouldn't mind if anyone wanted to fork and contribute to the incomplete repositories I have. Definitely not saying this because I'm lazy it something._
+> _Also, I wouldn't mind if anyone wanted to fork and contribute to the incomplete repositories I have. Definitely not saying this because I'm lazy or something._
